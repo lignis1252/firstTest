@@ -19,6 +19,7 @@ local.properties
 .project
 target/
 
+
 # External tool builders
 .externalToolBuilders/
 
